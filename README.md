@@ -5,4 +5,4 @@ Alan - 03 - Bucles
 Alan - 04 - Pandas
 Alan SpaceX - Data Collection V2
 
-Basic training exercises about Python to practice basic and complex structures.
+A selection of training exercises about Python to practice basic and complex structures.
