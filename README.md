@@ -1,4 +1,6 @@
 # Machine-Learning-Practice
+<<(A selection of training exercises about Python to practice basic and complex structures)>>
+
 Alan - 01 - Python Notebook
 
 Alan - 02 - Condicionales
@@ -15,4 +17,4 @@ Alan Prophet - Predecir el valor de algo
 
 Alan SpaceX - Data Collection V2
 
-<<(A selection of training exercises about Python to practice basic and complex structures)>>
+
