@@ -1,4 +1,4 @@
-# Machine-Learning-Practice-1
+# Machine-Learning-Practice
 Alan - 01 - Python Notebook
 Alan - 02 - Condicionales
 Alan - 03 - Bucles
